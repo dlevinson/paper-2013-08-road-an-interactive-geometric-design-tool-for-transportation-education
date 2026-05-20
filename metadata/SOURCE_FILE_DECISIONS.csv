@@ -1,0 +1,9 @@
+source_path,decision,package_path,reason
+/Users/dlev2617/Documents/Papers/~05-Published/ASCE - Journal of Professional Issues and Engineering Education/ASCE-JPIEEP-TRB08-ROAD/ROAD.pdf,included,paper/ROAD.pdf,Paper PDF for reference.
+/Users/dlev2617/Documents/Projects-Completed/NSF-STREET/Code/Road Folder/ROAD.html,included,code/original_java/applet/ROAD.html,Original ROAD applet launcher.
+/Users/dlev2617/Documents/Projects-Completed/NSF-STREET/Code/Road Folder/RoadDesign.jar,included,code/original_java/applet/RoadDesign.jar,Original ROAD built applet/JAR retained as historical executable artifact.
+/Users/dlev2617/Documents/Projects-Completed/NSF-STREET/Code/ROAD_SRC,included_via_materialized_staging_copy,code/original_java/ROAD_SRC/,"Original source folder is cloud-placeholdered in place, so the materialized Code/Agents staging copy was used."
+materialized staging copy no longer retained,used_as_materialized_copy,code/original_java/ROAD_SRC/,The package now retains the materialized ROAD_SRC copy at code/original_java/ROAD_SRC/; the temporary WORK-REQUIRED staging folder was intentionally removed.
+/Users/dlev2617/Documents/Code/STREET-JS/repos/road-js,pointer_only_not_duplicated,,Modern JavaScript successor exists in STREET-JS and should be archived separately rather than duplicated here.
+/Users/dlev2617/Documents/Code/STREET-JS/repos/road-2-js,pointer_only_not_duplicated,,Modern JavaScript successor/variant exists in STREET-JS and should be archived separately rather than duplicated here.
+PaperSurveys / class evaluation response-level files,excluded,,Raw survey/evaluation responses are not required for the software archive and may require privacy/ethics review.
