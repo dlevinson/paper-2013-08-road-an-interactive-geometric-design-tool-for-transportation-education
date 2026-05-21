@@ -1,6 +1,6 @@
 # License Status: ROAD: An Interactive Geometric Design Tool For Transportation Education
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-05-21 20:57:23 AEST
 
 Recorded license/access note from the verified audit row: No explicit source license found; choose intended repository license at GitHub upload. Paper PDF remains subject to publisher terms.
 
