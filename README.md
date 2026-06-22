@@ -1,5 +1,9 @@
 # ROAD: An Interactive Geometric Design Tool for Transportation Education
 
+## Contribution
+
+This paper introduces ROAD, an interactive roadway geometric-design application that lets students rapidly test alignments against safety, cost, and environmental constraints. Its editable design workflow and three-dimensional driver view shift instruction from repetitive manual calculation toward experimentation and a broader understanding of design tradeoffs.
+
 This package contains the paper PDF and original ROAD Java app/source package for Liao and Levinson (2013), "ROAD: An Interactive Geometric Design Tool for Transportation Education," ASCE Journal of Professional Issues in Engineering Education and Practice 139(2):116-122. DOI: 10.1061/(ASCE)EI.1943-5541.0000142.
 
 ## Contents
