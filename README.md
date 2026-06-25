@@ -8,6 +8,7 @@ This package contains the paper PDF and original ROAD Java app/source package fo
 
 ## Contents
 
+- `LICENSE.md`: operative mixed repository license and boundary statement.
 - `paper/ROAD.pdf`: paper PDF.
 - `code/original_java/applet/`: original ROAD applet launcher and JAR.
 - `code/original_java/ROAD_SRC/`: original Java source, assets, manual, and demo files.
@@ -26,10 +27,10 @@ The paper reports class-evaluation survey results, but this package intentionall
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
-Generated: 2026-05-22 07:46:52 AEST
+Generated: 2026-06-26 00:00:00 AEST
 
 - Pipeline: `UPLOADED`
-- Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
+- Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`, `LICENSE.md`.
 - Public paper-package repositories include `paper/` PDF reference copies by owner decision; publisher takedown requests can be handled later if they arise.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
 <!-- package-hardening-status:end -->
